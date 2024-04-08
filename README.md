@@ -1,20 +1,13 @@
-This is your group repo for your final project for COGS108.
+For this project, we extracted data from the General Social Survey’s 2018 responses to
+discover if there is a relationship between education levels and self-reported life satisfaction
+variables, such as job, social, financial, and overall life satisfaction. Out of more than 5000
+variables offered in the General Social Survey that were asked, we selected variables offering
+data about a respondent’s highest education level, and the satisfaction variables as
+mentioned above. We performed linear regression analysis, displaying our results on scatter
+plots as well as a stacked barplot, analyzing the relationship.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
-
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
-
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+After our analyses, we have found a statistically significant, positive correlation between
+education levels and multiple life satisfaction variables. Prior surveys have suggested that a
+higher education contributes to advances in the personal success of an individual graduate,
+and our project examining our sample size of 2348 respondents contributes support for this
+proposal.
