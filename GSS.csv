@@ -1,0 +1,2349 @@
+﻿year,id_,educ,satjob,satfin,satsoc,satlife
+2018,1,14,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2,10,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,3,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,4,16,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,5,18,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,6,16,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,7,13,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,8,12,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,9,8,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,10,12,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,11,19,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,12,14,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,13,13,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,14,16,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,15,12,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,16,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,17,16,Very dissatisfied,Not satisfied at all,Good,Somewhat dissatisfied
+2018,18,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,19,20,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,20,18,A little dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,21,15,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,22,14,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,23,14,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,24,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,25,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,26,8,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,27,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,28,9,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,29,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,30,14,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,31,12,.i:  Inapplicable,Not satisfied at all,Very good,Mostly satisfied
+2018,32,8,.i:  Inapplicable,Not satisfied at all,Good,Mostly satisfied
+2018,33,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,34,16,Very dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,35,10,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,36,18,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,37,20,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,38,20,Very dissatisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,39,19,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,40,12,.n:  No answer,.n:  No answer,Good,.i:  Inapplicable
+2018,41,12,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,42,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,43,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,44,18,.n:  No answer,Pretty well satisfied,Very good,Mostly satisfied
+2018,45,16,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,46,12,Moderately satisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,47,18,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,48,18,A little dissatisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,49,17,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,50,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,51,14,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,52,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,53,18,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,54,18,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,55,16,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,56,14,Moderately satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,57,16,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,58,14,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,59,11,A little dissatisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,60,9,Moderately satisfied,Not satisfied at all,Poor,Mostly dissatisfied
+2018,61,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,62,10,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,63,16,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,64,13,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,65,12,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,66,20,.i:  Inapplicable,More or less satisfied,Poor,.i:  Inapplicable
+2018,67,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,68,14,.i:  Inapplicable,Not satisfied at all,Excellent,Completely satisfied
+2018,69,19,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,70,16,Very dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,71,15,.n:  No answer,Pretty well satisfied,Fair,Completely satisfied
+2018,72,16,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,73,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,74,20,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,75,14,Moderately satisfied,Not satisfied at all,Excellent,Mostly satisfied
+2018,76,14,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,77,16,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,78,8,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,79,14,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,80,.n:  No answer,.n:  No answer,More or less satisfied,Very good,Mostly satisfied
+2018,81,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,82,12,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,83,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,84,13,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,85,12,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,86,17,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,87,13,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,88,16,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,89,18,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,90,18,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,91,16,A little dissatisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,92,19,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,93,16,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,94,12,Very satisfied,.d:  Do not Know/Cannot Choose,.n:  No answer,.i:  Inapplicable
+2018,95,16,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,96,14,A little dissatisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,97,13,.i:  Inapplicable,Pretty well satisfied,Fair,Somewhat satisfied
+2018,98,16,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,99,12,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,100,4,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,101,12,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,102,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,103,18,A little dissatisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,104,14,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,105,18,A little dissatisfied,Pretty well satisfied,Fair,Somewhat dissatisfied
+2018,106,14,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,107,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,108,12,A little dissatisfied,Not satisfied at all,Good,Completely satisfied
+2018,109,16,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,110,14,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,111,14,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,112,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,113,14,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,114,12,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,115,16,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,116,17,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,117,8,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,118,14,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,119,13,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,120,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,121,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,122,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,123,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,124,16,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,125,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,126,18,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,127,20,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,128,16,Very satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,129,18,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,130,18,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,131,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,132,20,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,133,17,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,134,15,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,135,13,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,136,12,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,137,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,138,16,A little dissatisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,139,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,140,15,A little dissatisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,141,14,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,142,17,Very satisfied,Not satisfied at all,Excellent,Somewhat satisfied
+2018,143,11,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,144,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,145,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,146,12,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,147,12,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,148,17,Very dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,149,14,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,150,19,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,151,16,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,152,13,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,153,12,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,154,16,Moderately satisfied,Pretty well satisfied,Good,Neither satisfied nor dissatisfied
+2018,155,8,A little dissatisfied,More or less satisfied,Very good,Neither satisfied nor dissatisfied
+2018,156,11,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,157,12,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,158,14,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,159,7,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,160,2,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,161,11,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,162,12,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,163,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,164,15,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,165,6,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,166,13,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,167,9,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,168,16,Very satisfied,Not satisfied at all,.n:  No answer,.i:  Inapplicable
+2018,169,18,A little dissatisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,170,13,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,171,12,A little dissatisfied,Not satisfied at all,Poor,Neither satisfied nor dissatisfied
+2018,172,14,A little dissatisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,173,13,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,174,16,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,175,20,Very satisfied,Pretty well satisfied,Fair,Completely satisfied
+2018,176,16,.d:  Do not Know/Cannot Choose,More or less satisfied,Good,Mostly satisfied
+2018,177,18,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,178,14,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,179,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,180,14,A little dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,181,12,Very satisfied,.d:  Do not Know/Cannot Choose,.d:  Do not Know/Cannot Choose,.d:  Do not Know/Cannot Choose
+2018,182,16,.i:  Inapplicable,Not satisfied at all,Poor,Neither satisfied nor dissatisfied
+2018,183,20,Very dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,184,17,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,185,16,Very dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,186,14,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,187,11,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,188,16,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,189,14,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,190,13,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,191,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,192,18,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,193,6,Moderately satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,194,16,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,195,11,.i:  Inapplicable,Not satisfied at all,Very good,Completely satisfied
+2018,196,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,197,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,198,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,199,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,200,14,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,201,16,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,202,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,203,16,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,204,13,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,205,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,206,12,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,207,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,208,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,209,16,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,210,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,211,14,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,212,14,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,213,10,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,214,11,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,215,12,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,216,15,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,217,7,.i:  Inapplicable,Not satisfied at all,Fair,Somewhat satisfied
+2018,218,3,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,219,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,220,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,221,19,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,222,16,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,223,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,224,14,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,225,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,226,15,Very dissatisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,227,11,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,228,17,A little dissatisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,229,12,Very dissatisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,230,12,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,231,15,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,232,16,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,233,17,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,234,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,235,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,236,17,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,237,10,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,238,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,239,18,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,240,13,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,241,14,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,242,13,Very satisfied,Pretty well satisfied,Fair,Mostly satisfied
+2018,243,13,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,244,13,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,245,14,A little dissatisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,246,12,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,247,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,248,13,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,249,16,.n:  No answer,More or less satisfied,Very good,Mostly satisfied
+2018,250,12,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,251,12,.i:  Inapplicable,Pretty well satisfied,Fair,Neither satisfied nor dissatisfied
+2018,252,16,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,253,14,Very satisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,254,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,255,10,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,256,1,Moderately satisfied,Pretty well satisfied,.n:  No answer,.i:  Inapplicable
+2018,257,12,A little dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,258,16,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,259,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,260,12,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,261,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,262,16,A little dissatisfied,Pretty well satisfied,Very good,Neither satisfied nor dissatisfied
+2018,263,16,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,264,16,A little dissatisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,265,16,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,266,13,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,267,16,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,268,14,Very satisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,269,16,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,270,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,271,12,Moderately satisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,272,18,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,273,14,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,274,19,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,275,16,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,276,16,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,277,18,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,278,15,A little dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,279,12,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,280,16,A little dissatisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,281,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,282,13,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,283,14,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,284,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,285,16,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,286,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,287,18,Very satisfied,Not satisfied at all,Excellent,Somewhat satisfied
+2018,288,15,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,289,12,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,290,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,291,17,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,292,19,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,293,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,294,12,A little dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,295,11,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,296,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,297,11,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,298,20,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,299,20,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,300,16,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,301,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,302,13,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,303,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,304,20,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,305,14,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,306,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,307,17,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,308,8,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,309,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,310,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Somewhat satisfied
+2018,311,14,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,312,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,313,18,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,314,20,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,315,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,316,16,Very dissatisfied,More or less satisfied,Good,Mostly dissatisfied
+2018,317,19,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,318,12,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,319,20,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,320,12,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,321,14,Moderately satisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,322,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,323,11,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,324,7,.i:  Inapplicable,Not satisfied at all,Poor,Somewhat satisfied
+2018,325,12,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,326,10,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,327,12,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,328,14,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,329,17,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,330,16,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,331,14,Very satisfied,Pretty well satisfied,Fair,Somewhat dissatisfied
+2018,332,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,333,19,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,334,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,335,18,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,336,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,337,16,A little dissatisfied,More or less satisfied,Excellent,Somewhat dissatisfied
+2018,338,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,339,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,340,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,341,20,Very satisfied,Pretty well satisfied,Poor,Neither satisfied nor dissatisfied
+2018,342,16,.n:  No answer,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,343,16,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,344,18,Moderately satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,345,14,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,346,13,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,347,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,348,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,349,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,350,15,A little dissatisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,351,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,352,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,353,20,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,354,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,355,20,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,356,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,357,9,A little dissatisfied,Not satisfied at all,Fair,Completely dissatisfied
+2018,358,18,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,359,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,360,12,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,361,12,.i:  Inapplicable,Pretty well satisfied,Good,Completely satisfied
+2018,362,13,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,363,14,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,364,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,365,17,Moderately satisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,366,6,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,367,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,368,16,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,369,18,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,370,16,Very satisfied,Pretty well satisfied,.n:  No answer,.i:  Inapplicable
+2018,371,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,372,16,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,373,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,374,15,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,375,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,376,14,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,377,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,378,14,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,379,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,380,16,.n:  No answer,More or less satisfied,Very good,.i:  Inapplicable
+2018,381,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,382,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,383,19,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,384,15,Very satisfied,More or less satisfied,Very good,Somewhat dissatisfied
+2018,385,16,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,386,16,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,387,16,A little dissatisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,388,20,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,389,14,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,390,14,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,391,13,Moderately satisfied,Not satisfied at all,Poor,Neither satisfied nor dissatisfied
+2018,392,18,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,393,9,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,394,17,Very satisfied,Pretty well satisfied,Fair,Neither satisfied nor dissatisfied
+2018,395,No formal schooling,Moderately satisfied,Pretty well satisfied,Poor,.i:  Inapplicable
+2018,396,16,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,397,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat dissatisfied
+2018,398,19,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,399,12,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,400,16,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,401,16,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,402,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,403,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,404,3,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,405,12,Moderately satisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,406,15,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,407,11,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,408,14,Moderately satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,409,13,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,410,13,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,411,15,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,412,10,Very dissatisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,413,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,414,15,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,415,8,.i:  Inapplicable,Not satisfied at all,.d:  Do not Know/Cannot Choose,Mostly satisfied
+2018,416,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,417,13,Moderately satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,418,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,419,14,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,420,16,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,421,13,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,422,14,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,423,12,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,424,13,Moderately satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,425,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,426,20,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,427,18,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,428,20,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,429,16,Moderately satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,430,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,431,16,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,432,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,433,18,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,434,16,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,435,5,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,436,16,.n:  No answer,More or less satisfied,Excellent,.i:  Inapplicable
+2018,437,12,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,438,16,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,439,18,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,440,14,Very satisfied,Not satisfied at all,Very good,Neither satisfied nor dissatisfied
+2018,441,18,Moderately satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,442,16,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,443,17,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,444,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,445,12,Moderately satisfied,Not satisfied at all,Excellent,Neither satisfied nor dissatisfied
+2018,446,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,447,16,A little dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,448,16,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,449,12,.i:  Inapplicable,Not satisfied at all,Fair,Somewhat satisfied
+2018,450,No formal schooling,.n:  No answer,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,451,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,452,17,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,453,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,454,16,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,455,18,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,456,13,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,457,19,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,458,16,.i:  Inapplicable,Not satisfied at all,Very good,Somewhat satisfied
+2018,459,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,460,14,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,461,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,462,17,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,463,15,Very satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,464,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,465,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,466,14,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,467,14,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,468,15,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,469,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,470,14,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,471,18,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,472,19,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,473,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,474,18,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,475,9,.i:  Inapplicable,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,476,15,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,477,18,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,478,20,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,479,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,480,13,Moderately satisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,481,18,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,482,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,483,12,A little dissatisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,484,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,485,16,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,486,11,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,487,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,488,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,489,12,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,490,14,.n:  No answer,More or less satisfied,Very good,Completely satisfied
+2018,491,16,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,492,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,493,20,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,494,20,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,495,17,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,496,11,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,497,13,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,498,6,.i:  Inapplicable,Not satisfied at all,Poor,Completely dissatisfied
+2018,499,10,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,500,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,501,12,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,502,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,503,16,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,504,11,Moderately satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,505,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,506,14,.i:  Inapplicable,More or less satisfied,Fair,Mostly satisfied
+2018,507,17,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,508,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,509,17,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,510,16,A little dissatisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,511,18,Very satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,512,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,513,16,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,514,17,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,515,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,516,14,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,517,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,518,18,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,519,16,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,520,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,521,18,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,522,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,523,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,524,14,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,525,13,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,526,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,527,12,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,528,13,Moderately satisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,529,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,530,12,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,531,12,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,532,13,.n:  No answer,Not satisfied at all,Good,.i:  Inapplicable
+2018,533,12,Moderately satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,534,18,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,535,14,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,536,14,Very satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,537,2,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,538,18,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,539,13,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,540,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,541,17,Very satisfied,Not satisfied at all,Poor,Mostly dissatisfied
+2018,542,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,543,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,544,13,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,545,17,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,546,12,Moderately satisfied,Not satisfied at all,Good,Completely satisfied
+2018,547,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,548,11,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,549,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,550,20,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,551,16,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,552,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,553,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,554,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,555,17,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,556,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,557,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,558,16,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,559,17,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,560,16,Moderately satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,561,17,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,562,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,563,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,564,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,565,16,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,566,16,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,567,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,568,20,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,569,16,Moderately satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,570,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,571,20,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,572,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,573,20,Very satisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,574,12,A little dissatisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,575,14,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,576,12,Very dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,577,16,.i:  Inapplicable,More or less satisfied,Excellent,Completely satisfied
+2018,578,14,Moderately satisfied,Pretty well satisfied,Very good,Neither satisfied nor dissatisfied
+2018,579,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,580,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,581,20,Very dissatisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,582,12,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,583,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,584,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,585,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,586,7,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,587,17,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,588,15,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,589,18,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,590,14,Moderately satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,591,11,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,592,16,Very satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,593,13,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,594,12,Very satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,595,16,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,596,14,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,597,12,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,598,16,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,599,19,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,600,12,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,601,11,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,602,14,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,603,13,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,604,12,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,605,16,Very dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,606,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,607,9,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,608,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,609,9,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,610,11,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,611,5,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,612,9,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,613,10,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,614,15,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,615,9,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,616,7,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,617,14,.d:  Do not Know/Cannot Choose,Pretty well satisfied,Good,Completely satisfied
+2018,618,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,619,16,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,620,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,621,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,622,12,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,623,20,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,624,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,625,19,.i:  Inapplicable,.d:  Do not Know/Cannot Choose,Excellent,.i:  Inapplicable
+2018,626,15,Very satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,627,19,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,628,20,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,629,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,630,17,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,631,16,Moderately satisfied,More or less satisfied,Good,.n:  No answer
+2018,632,12,A little dissatisfied,Not satisfied at all,Very good,Completely satisfied
+2018,633,15,A little dissatisfied,More or less satisfied,Very good,Mostly satisfied
+2018,634,15,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,635,18,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,636,12,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,637,12,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,638,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,639,13,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,640,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,641,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,642,14,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,643,15,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,644,11,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,645,14,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,646,18,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,647,14,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,648,11,Moderately satisfied,More or less satisfied,Very good,Completely satisfied
+2018,649,6,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,650,3,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,651,9,.i:  Inapplicable,More or less satisfied,Poor,Somewhat dissatisfied
+2018,652,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,653,19,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,654,16,A little dissatisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,655,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,656,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,657,12,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,658,14,Moderately satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,659,13,.n:  No answer,Not satisfied at all,Good,.i:  Inapplicable
+2018,660,14,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,661,13,Moderately satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,662,13,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,663,12,Very dissatisfied,More or less satisfied,.n:  No answer,Somewhat satisfied
+2018,664,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,665,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,666,16,A little dissatisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,667,14,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,668,17,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,669,13,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,670,12,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,671,16,Moderately satisfied,More or less satisfied,Very good,Completely satisfied
+2018,672,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,673,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,674,15,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,675,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,676,14,Moderately satisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,677,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,678,13,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,679,12,Very dissatisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,680,15,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,681,15,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,682,15,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,683,16,A little dissatisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,684,3,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,685,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,686,12,A little dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,687,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,688,11,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,689,12,Moderately satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,690,12,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,691,12,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,692,14,Very dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,693,15,Very dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,694,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,695,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,696,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,697,4,.i:  Inapplicable,Pretty well satisfied,Fair,Mostly satisfied
+2018,698,12,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,699,16,Moderately satisfied,More or less satisfied,Very good,Completely satisfied
+2018,700,4,.i:  Inapplicable,Not satisfied at all,Good,Mostly satisfied
+2018,701,13,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,702,13,.i:  Inapplicable,Pretty well satisfied,Good,Completely satisfied
+2018,703,12,.i:  Inapplicable,More or less satisfied,Excellent,Completely satisfied
+2018,704,9,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,705,14,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,706,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,707,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,708,12,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,709,15,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,710,12,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,711,9,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,712,16,Very satisfied,Not satisfied at all,Good,Mostly dissatisfied
+2018,713,18,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,714,12,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,715,11,Moderately satisfied,Not satisfied at all,Good,Completely satisfied
+2018,716,18,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,717,13,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,718,18,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,719,18,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,720,18,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,721,11,.n:  No answer,Pretty well satisfied,Good,Mostly satisfied
+2018,722,16,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,723,15,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,724,16,Moderately satisfied,Pretty well satisfied,Excellent,Neither satisfied nor dissatisfied
+2018,725,12,.d:  Do not Know/Cannot Choose,More or less satisfied,Very good,.i:  Inapplicable
+2018,726,15,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,727,13,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,728,14,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,729,12,A little dissatisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,730,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,731,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,732,13,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,733,18,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,734,10,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,735,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,736,14,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,737,16,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,738,12,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,739,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,740,17,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,741,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,742,16,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,743,10,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,744,12,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,745,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,746,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,747,16,Very satisfied,Not satisfied at all,Poor,Somewhat satisfied
+2018,748,12,Moderately satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,749,12,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,750,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,751,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,752,15,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,753,10,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,754,12,A little dissatisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,755,18,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,756,11,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,757,20,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,758,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,759,18,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,760,14,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,761,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,762,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,763,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,764,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,765,15,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,766,18,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,767,17,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,768,9,Very satisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,769,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,770,16,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,771,19,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,772,16,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,773,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,774,14,Moderately satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,775,14,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,776,14,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,777,14,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,778,8,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,779,16,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,780,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,781,16,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,782,14,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,783,13,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,784,17,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,785,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,786,15,A little dissatisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,787,12,Very satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,788,8,A little dissatisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,789,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,790,14,A little dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,791,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,792,16,.i:  Inapplicable,Pretty well satisfied,Fair,Somewhat satisfied
+2018,793,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,794,.d:  Do not Know/Cannot Choose,A little dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,795,20,.i:  Inapplicable,More or less satisfied,Poor,Somewhat dissatisfied
+2018,796,15,Very satisfied,Not satisfied at all,Good,Completely satisfied
+2018,797,12,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,798,15,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,799,14,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,800,15,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,801,3,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,802,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,803,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,804,16,A little dissatisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,805,7,Moderately satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,806,12,.i:  Inapplicable,Not satisfied at all,Good,Mostly dissatisfied
+2018,807,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,808,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,809,16,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,810,13,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,811,16,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,812,18,Moderately satisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,813,16,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,814,15,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,815,12,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,816,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,817,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,818,12,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,819,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,820,12,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,821,18,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,822,16,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,823,15,.i:  Inapplicable,More or less satisfied,Excellent,Somewhat satisfied
+2018,824,12,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,825,14,.n:  No answer,More or less satisfied,Good,Mostly satisfied
+2018,826,16,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,827,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,828,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,829,16,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,830,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,831,16,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,832,13,.i:  Inapplicable,Not satisfied at all,Poor,Somewhat satisfied
+2018,833,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,834,12,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,835,19,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,836,16,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,837,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,838,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,839,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,840,10,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,841,9,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,842,14,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,843,12,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,844,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,845,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,846,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,847,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,848,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,849,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,850,14,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,851,16,A little dissatisfied,Not satisfied at all,Excellent,Somewhat satisfied
+2018,852,12,.i:  Inapplicable,Pretty well satisfied,Excellent,Neither satisfied nor dissatisfied
+2018,853,6,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,854,17,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,855,14,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,856,14,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,857,16,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,858,16,Moderately satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,859,17,A little dissatisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,860,12,.i:  Inapplicable,Not satisfied at all,Good,Mostly satisfied
+2018,861,16,Moderately satisfied,More or less satisfied,Very good,Completely satisfied
+2018,862,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,863,13,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,864,16,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,865,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,866,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,867,15,A little dissatisfied,Not satisfied at all,Good,Somewhat dissatisfied
+2018,868,13,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,869,20,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,870,15,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,871,8,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,872,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,873,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,874,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,875,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,876,16,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,877,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,878,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,879,12,.i:  Inapplicable,Not satisfied at all,Excellent,Completely satisfied
+2018,880,17,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,881,17,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,882,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,883,14,Very satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,884,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,885,16,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,886,12,Very satisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,887,18,Very satisfied,Pretty well satisfied,Excellent,Somewhat satisfied
+2018,888,12,.d:  Do not Know/Cannot Choose,More or less satisfied,Good,.i:  Inapplicable
+2018,889,14,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,890,16,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,891,12,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,892,16,Moderately satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,893,12,.i:  Inapplicable,Not satisfied at all,Good,Completely dissatisfied
+2018,894,15,Very satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,895,12,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,896,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,897,16,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,898,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,899,12,.i:  Inapplicable,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,900,12,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,901,11,.i:  Inapplicable,Not satisfied at all,Excellent,Mostly satisfied
+2018,902,12,Moderately satisfied,Not satisfied at all,Poor,Neither satisfied nor dissatisfied
+2018,903,12,Very dissatisfied,Not satisfied at all,Fair,Completely dissatisfied
+2018,904,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,905,13,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,906,13,A little dissatisfied,Pretty well satisfied,Poor,Somewhat dissatisfied
+2018,907,12,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,908,12,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,909,14,.n:  No answer,More or less satisfied,Very good,.i:  Inapplicable
+2018,910,20,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,911,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,912,14,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,913,15,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,914,14,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,915,10,Moderately satisfied,Not satisfied at all,Poor,Neither satisfied nor dissatisfied
+2018,916,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,917,11,Very dissatisfied,More or less satisfied,Fair,Mostly dissatisfied
+2018,918,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,919,14,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,920,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat dissatisfied
+2018,921,20,.i:  Inapplicable,Pretty well satisfied,Good,Completely satisfied
+2018,922,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,923,12,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,924,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,925,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,926,12,Moderately satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,927,17,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,928,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,929,20,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,930,14,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,931,18,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,932,18,.i:  Inapplicable,Pretty well satisfied,Good,Completely satisfied
+2018,933,19,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,934,16,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,935,14,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,936,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,937,17,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,938,18,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,939,13,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,940,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,941,14,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,942,11,.i:  Inapplicable,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,943,15,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,944,11,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,945,12,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,946,17,Very dissatisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,947,18,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,948,15,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,949,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,950,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,951,9,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,952,17,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,953,14,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,954,9,A little dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,955,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,956,18,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,957,6,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,958,9,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,959,12,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,960,6,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,961,14,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,962,16,Moderately satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,963,16,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,964,16,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,965,13,A little dissatisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,966,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,967,14,Very satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,968,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,969,12,Moderately satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,970,11,A little dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,971,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,972,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,973,12,A little dissatisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,974,14,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,975,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,976,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,977,16,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,978,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,979,18,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,980,18,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,981,17,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,982,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,983,18,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,984,13,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,985,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,986,20,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,987,17,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,988,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,989,13,Moderately satisfied,Pretty well satisfied,Poor,Somewhat dissatisfied
+2018,990,13,A little dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,991,12,.n:  No answer,More or less satisfied,Excellent,.i:  Inapplicable
+2018,992,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,993,16,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,994,13,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,995,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,996,15,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,997,14,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,998,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,999,13,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1000,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1001,16,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1002,15,Very dissatisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1003,16,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,1004,16,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1005,20,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1006,20,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1007,16,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,1008,16,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1009,16,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1010,18,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1011,14,Moderately satisfied,Pretty well satisfied,Poor,.i:  Inapplicable
+2018,1012,13,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1013,16,A little dissatisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1014,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1015,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1016,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1017,13,.n:  No answer,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1018,14,A little dissatisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,1019,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1020,18,A little dissatisfied,More or less satisfied,Very good,Neither satisfied nor dissatisfied
+2018,1021,13,Moderately satisfied,Not satisfied at all,Good,Somewhat dissatisfied
+2018,1022,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1023,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1024,10,.i:  Inapplicable,Not satisfied at all,Poor,Mostly satisfied
+2018,1025,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1026,14,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1027,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1028,16,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,1029,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1030,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1031,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1032,14,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1033,15,Very dissatisfied,More or less satisfied,Good,Mostly satisfied
+2018,1034,16,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1035,15,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1036,10,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1037,12,.i:  Inapplicable,More or less satisfied,Good,Completely satisfied
+2018,1038,16,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1039,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1040,18,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1041,16,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1042,14,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1043,20,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1044,14,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1045,17,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1046,14,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1047,12,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,1048,18,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1049,11,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1050,6,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1051,10,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1052,12,A little dissatisfied,More or less satisfied,Good,Mostly satisfied
+2018,1053,12,.n:  No answer,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1054,13,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1055,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1056,13,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1057,9,Very satisfied,Pretty well satisfied,Fair,Mostly satisfied
+2018,1058,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1059,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1060,13,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1061,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1062,11,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1063,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1064,12,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1065,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1066,15,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1067,11,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1068,15,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1069,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1070,14,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1071,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1072,11,Very satisfied,Pretty well satisfied,Good,Somewhat dissatisfied
+2018,1073,16,Moderately satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1074,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1075,14,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1076,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1077,15,.n:  No answer,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1078,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1079,8,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1080,14,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1081,12,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1082,13,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1083,9,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,1084,13,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1085,9,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1086,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1087,9,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1088,16,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1089,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1090,16,Moderately satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1091,16,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1092,18,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1093,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1094,16,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1095,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1096,17,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1097,14,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1098,17,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1099,13,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1100,13,A little dissatisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1101,9,A little dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1102,13,Moderately satisfied,More or less satisfied,Good,Somewhat dissatisfied
+2018,1103,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1104,12,Moderately satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1105,11,A little dissatisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,1106,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1107,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1108,17,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1109,18,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1110,16,Very satisfied,Not satisfied at all,Excellent,Mostly satisfied
+2018,1111,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1112,18,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1113,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1114,15,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1115,12,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1116,18,.i:  Inapplicable,Pretty well satisfied,Fair,Somewhat satisfied
+2018,1117,15,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1118,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1119,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1120,12,.i:  Inapplicable,Not satisfied at all,Fair,Somewhat satisfied
+2018,1121,15,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1122,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1123,16,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,1124,16,A little dissatisfied,Not satisfied at all,Very good,Neither satisfied nor dissatisfied
+2018,1125,15,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1126,16,Moderately satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1127,15,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1128,15,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,1129,17,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1130,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1131,13,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1132,14,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1133,15,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1134,16,A little dissatisfied,Pretty well satisfied,Good,Completely satisfied
+2018,1135,20,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1136,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1137,8,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1138,12,Very satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1139,12,.i:  Inapplicable,Not satisfied at all,Good,Mostly satisfied
+2018,1140,20,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1141,16,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1142,14,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1143,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1144,14,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1145,19,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1146,16,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,1147,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1148,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1149,11,Moderately satisfied,Not satisfied at all,Poor,Mostly satisfied
+2018,1150,17,Very satisfied,More or less satisfied,Good,Somewhat dissatisfied
+2018,1151,9,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1152,13,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1153,17,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1154,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1155,13,Moderately satisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,1156,16,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1157,14,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1158,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1159,12,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1160,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1161,11,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1162,12,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1163,13,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1164,20,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1165,16,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1166,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1167,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1168,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,1169,12,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1170,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1171,16,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1172,12,Moderately satisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,1173,12,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1174,18,Moderately satisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,1175,16,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1176,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1177,13,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1178,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1179,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1180,12,Moderately satisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,1181,13,Moderately satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1182,13,A little dissatisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,1183,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1184,10,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1185,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1186,16,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,1187,17,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1188,12,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1189,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1190,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1191,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1192,12,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1193,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1194,11,.i:  Inapplicable,More or less satisfied,Fair,Completely dissatisfied
+2018,1195,18,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1196,12,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1197,16,A little dissatisfied,More or less satisfied,Fair,Somewhat dissatisfied
+2018,1198,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1199,17,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1200,11,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1201,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1202,16,Very dissatisfied,More or less satisfied,Good,Mostly satisfied
+2018,1203,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1204,16,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1205,14,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,1206,18,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1207,14,A little dissatisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1208,12,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1209,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1210,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1211,13,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1212,15,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1213,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1214,16,Moderately satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,1215,11,A little dissatisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1216,13,Moderately satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1217,14,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1218,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1219,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1220,16,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,1221,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1222,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1223,11,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1224,8,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1225,14,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1226,20,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1227,11,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1228,13,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1229,10,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1230,15,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1231,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1232,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1233,14,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1234,16,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1235,17,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1236,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1237,14,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1238,15,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1239,15,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1240,12,.d:  Do not Know/Cannot Choose,More or less satisfied,Good,.i:  Inapplicable
+2018,1241,17,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1242,18,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1243,16,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1244,18,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1245,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1246,11,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,1247,13,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1248,12,Very dissatisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1249,9,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1250,12,Very satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1251,13,Very dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1252,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1253,16,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1254,12,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1255,13,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1256,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1257,12,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,1258,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1259,12,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1260,16,Moderately satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1261,16,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1262,14,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,1263,16,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1264,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1265,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1266,16,A little dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1267,15,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1268,5,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1269,14,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1270,17,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1271,14,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1272,10,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1273,15,A little dissatisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,1274,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1275,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1276,11,Very satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,1277,3,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1278,20,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,1279,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1280,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1281,16,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,1282,16,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1283,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1284,11,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1285,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1286,9,Very dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1287,18,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1288,17,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1289,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1290,15,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1291,20,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1292,12,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1293,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1294,12,Very dissatisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1295,11,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,1296,9,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1297,14,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1298,12,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1299,11,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1300,12,Very dissatisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,1301,16,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1302,15,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1303,14,.i:  Inapplicable,.n:  No answer,Fair,Neither satisfied nor dissatisfied
+2018,1304,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1305,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1306,18,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1307,12,.n:  No answer,Pretty well satisfied,Very good,Mostly satisfied
+2018,1308,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1309,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1310,12,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1311,13,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1312,8,Moderately satisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,1313,12,.i:  Inapplicable,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,1314,14,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1315,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1316,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1317,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1318,16,Moderately satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1319,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1320,16,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1321,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1322,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1323,13,Very satisfied,Pretty well satisfied,.n:  No answer,.i:  Inapplicable
+2018,1324,12,Very satisfied,Not satisfied at all,Excellent,Mostly satisfied
+2018,1325,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1326,10,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1327,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1328,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1329,12,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1330,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1331,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1332,17,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1333,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1334,14,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1335,18,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1336,3,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1337,16,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1338,16,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1339,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1340,3,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1341,10,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,1342,6,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1343,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1344,12,Moderately satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1345,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1346,13,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1347,14,A little dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1348,10,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1349,18,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1350,13,.n:  No answer,Not satisfied at all,Good,.i:  Inapplicable
+2018,1351,13,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1352,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1353,15,Very dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1354,12,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1355,12,Very satisfied,Not satisfied at all,Poor,Completely satisfied
+2018,1356,20,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1357,14,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1358,16,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,1359,18,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1360,14,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1361,14,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1362,15,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1363,12,Moderately satisfied,Not satisfied at all,.n:  No answer,.i:  Inapplicable
+2018,1364,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1365,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1366,10,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1367,12,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1368,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1369,12,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1370,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1371,12,A little dissatisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,1372,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1373,18,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1374,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1375,16,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1376,14,Moderately satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1377,16,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1378,15,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1379,13,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1380,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1381,3,.i:  Inapplicable,More or less satisfied,Fair,Mostly satisfied
+2018,1382,14,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1383,14,A little dissatisfied,Not satisfied at all,Very good,Neither satisfied nor dissatisfied
+2018,1384,19,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1385,18,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1386,16,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1387,8,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1388,14,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,1389,20,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1390,16,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1391,15,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1392,18,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1393,11,Moderately satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1394,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1395,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1396,19,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1397,9,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1398,13,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1399,12,.i:  Inapplicable,More or less satisfied,Excellent,Completely satisfied
+2018,1400,16,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1401,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1402,11,.i:  Inapplicable,More or less satisfied,Poor,.i:  Inapplicable
+2018,1403,13,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1404,16,Moderately satisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,1405,15,.i:  Inapplicable,Not satisfied at all,Good,Mostly satisfied
+2018,1406,18,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1407,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,1408,14,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1409,10,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1410,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1411,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,1412,10,.d:  Do not Know/Cannot Choose,Not satisfied at all,Good,.i:  Inapplicable
+2018,1413,13,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1414,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1415,15,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1416,15,A little dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1417,14,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1418,10,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1419,11,Moderately satisfied,Not satisfied at all,Fair,Mostly satisfied
+2018,1420,14,Moderately satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1421,14,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1422,14,Very satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,1423,11,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1424,18,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1425,16,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1426,15,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,1427,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1428,10,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1429,14,Very satisfied,More or less satisfied,Good,Somewhat dissatisfied
+2018,1430,16,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1431,14,.i:  Inapplicable,Not satisfied at all,Very good,Completely satisfied
+2018,1432,14,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1433,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1434,15,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1435,14,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1436,17,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1437,15,.i:  Inapplicable,Pretty well satisfied,Excellent,Neither satisfied nor dissatisfied
+2018,1438,17,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1439,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1440,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1441,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1442,14,.i:  Inapplicable,More or less satisfied,Excellent,.d:  Do not Know/Cannot Choose
+2018,1443,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1444,16,Very dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1445,16,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1446,18,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1447,16,Very satisfied,Not satisfied at all,Excellent,Somewhat dissatisfied
+2018,1448,10,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1449,10,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1450,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,1451,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1452,12,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1453,13,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1454,18,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1455,8,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1456,12,.i:  Inapplicable,.d:  Do not Know/Cannot Choose,.d:  Do not Know/Cannot Choose,Somewhat satisfied
+2018,1457,11,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1458,13,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1459,16,Very dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1460,18,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1461,15,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1462,12,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,1463,13,.i:  Inapplicable,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,1464,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1465,12,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1466,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1467,20,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1468,15,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1469,13,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1470,13,Very dissatisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1471,17,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1472,9,A little dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1473,14,A little dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1474,11,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1475,8,A little dissatisfied,Not satisfied at all,Poor,Neither satisfied nor dissatisfied
+2018,1476,14,Moderately satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1477,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1478,16,Moderately satisfied,Not satisfied at all,.d:  Do not Know/Cannot Choose,Mostly satisfied
+2018,1479,16,Moderately satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1480,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1481,12,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1482,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1483,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1484,16,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1485,16,Moderately satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1486,14,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1487,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1488,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1489,18,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1490,17,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1491,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1492,18,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1493,16,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1494,13,Very satisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,1495,12,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1496,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1497,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1498,14,Very dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1499,18,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1500,13,Moderately satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,1501,12,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1502,12,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1503,14,.i:  Inapplicable,More or less satisfied,Poor,.i:  Inapplicable
+2018,1504,16,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1505,6,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1506,14,Moderately satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1507,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1508,6,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1509,17,Moderately satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1510,13,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1511,16,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1512,14,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1513,12,.i:  Inapplicable,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,1514,14,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1515,8,Very dissatisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,1516,13,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1517,14,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,1518,15,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,1519,14,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1520,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1521,12,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1522,10,Very satisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,1523,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1524,11,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1525,No formal schooling,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1526,12,Very satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1527,10,.i:  Inapplicable,More or less satisfied,Excellent,Completely satisfied
+2018,1528,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1529,11,Very dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1530,13,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1531,13,Very dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1532,12,Very satisfied,Not satisfied at all,Good,Mostly dissatisfied
+2018,1533,15,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1534,10,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1535,9,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1536,15,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,1537,13,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,1538,9,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1539,12,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1540,10,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1541,19,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1542,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1543,20,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,1544,11,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1545,17,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1546,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1547,12,Moderately satisfied,More or less satisfied,Very good,Neither satisfied nor dissatisfied
+2018,1548,11,A little dissatisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1549,13,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1550,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1551,14,Very dissatisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1552,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1553,11,Moderately satisfied,Not satisfied at all,Poor,Mostly dissatisfied
+2018,1554,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1555,16,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1556,17,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1557,10,.i:  Inapplicable,Pretty well satisfied,Good,Neither satisfied nor dissatisfied
+2018,1558,17,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1559,12,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1560,14,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1561,18,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1562,14,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1563,18,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1564,19,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1565,14,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1566,11,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1567,16,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1568,12,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1569,15,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1570,17,Very satisfied,Pretty well satisfied,Excellent,Somewhat satisfied
+2018,1571,10,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1572,15,.i:  Inapplicable,Not satisfied at all,Excellent,Completely satisfied
+2018,1573,12,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1574,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1575,18,.i:  Inapplicable,Pretty well satisfied,Good,Completely satisfied
+2018,1576,14,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1577,11,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1578,14,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1579,12,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1580,15,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1581,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1582,14,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1583,12,A little dissatisfied,Not satisfied at all,Fair,Mostly satisfied
+2018,1584,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1585,14,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1586,12,Very satisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,1587,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1588,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1589,14,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1590,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1591,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1592,12,.i:  Inapplicable,More or less satisfied,Good,Mostly dissatisfied
+2018,1593,11,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1594,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1595,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1596,14,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1597,11,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1598,12,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,1599,9,Very dissatisfied,Not satisfied at all,Poor,Completely dissatisfied
+2018,1600,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1601,20,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1602,14,Very satisfied,More or less satisfied,Good,Completely satisfied
+2018,1603,16,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1604,16,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1605,12,.i:  Inapplicable,Not satisfied at all,Excellent,Mostly satisfied
+2018,1606,17,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1607,13,A little dissatisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1608,14,.i:  Inapplicable,Pretty well satisfied,Poor,.i:  Inapplicable
+2018,1609,14,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1610,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1611,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1612,13,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1613,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1614,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1615,14,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1616,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1617,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1618,14,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1619,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1620,17,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1621,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1622,19,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1623,16,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1624,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1625,15,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1626,15,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1627,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,1628,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1629,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1630,8,.i:  Inapplicable,Not satisfied at all,Very good,Completely satisfied
+2018,1631,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1632,12,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1633,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1634,12,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1635,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1636,14,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat dissatisfied
+2018,1637,19,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1638,17,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1639,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1640,11,.i:  Inapplicable,More or less satisfied,Very good,Somewhat dissatisfied
+2018,1641,11,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1642,16,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1643,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1644,15,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1645,14,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1646,12,Very dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1647,15,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,1648,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1649,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1650,14,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1651,14,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1652,13,Very satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,1653,14,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1654,14,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1655,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1656,12,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,1657,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1658,19,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1659,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1660,8,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1661,12,A little dissatisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1662,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1663,13,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1664,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1665,19,Moderately satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1666,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1667,13,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1668,10,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1669,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1670,16,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1671,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1672,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1673,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1674,19,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1675,19,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1676,16,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1677,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1678,17,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1679,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1680,15,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1681,16,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1682,17,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1683,15,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,1684,12,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,1685,12,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1686,20,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1687,12,A little dissatisfied,Pretty well satisfied,Good,Neither satisfied nor dissatisfied
+2018,1688,12,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1689,12,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1690,18,.i:  Inapplicable,.n:  No answer,Good,.i:  Inapplicable
+2018,1691,16,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1692,15,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1693,16,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1694,18,Very dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1695,9,Very dissatisfied,Not satisfied at all,Poor,Completely dissatisfied
+2018,1696,12,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1697,11,.d:  Do not Know/Cannot Choose,More or less satisfied,Good,.i:  Inapplicable
+2018,1698,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,1699,13,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1700,13,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,1701,13,Very dissatisfied,Not satisfied at all,Poor,Completely dissatisfied
+2018,1702,16,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1703,12,A little dissatisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1704,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1705,12,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1706,18,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1707,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1708,15,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1709,19,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1710,17,.i:  Inapplicable,More or less satisfied,Good,Completely satisfied
+2018,1711,13,Very dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1712,12,Moderately satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1713,14,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1714,18,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1715,17,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,1716,14,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1717,15,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1718,17,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1719,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1720,14,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1721,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1722,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1723,15,Very dissatisfied,Not satisfied at all,Fair,Somewhat dissatisfied
+2018,1724,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1725,13,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1726,18,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1727,12,.i:  Inapplicable,Not satisfied at all,Excellent,Mostly satisfied
+2018,1728,10,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1729,14,Very satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1730,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1731,17,Very satisfied,Not satisfied at all,Very good,Completely satisfied
+2018,1732,18,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1733,12,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1734,12,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1735,14,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,1736,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1737,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1738,16,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1739,17,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1740,12,.i:  Inapplicable,Pretty well satisfied,Fair,Neither satisfied nor dissatisfied
+2018,1741,11,Moderately satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1742,16,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1743,11,A little dissatisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1744,18,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1745,16,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1746,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1747,11,Very dissatisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,1748,10,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1749,10,Very dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1750,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1751,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1752,16,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1753,16,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1754,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1755,12,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1756,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1757,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1758,17,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1759,20,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1760,12,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1761,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1762,14,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1763,16,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1764,14,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,1765,13,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1766,13,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1767,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,1768,12,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1769,12,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1770,13,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1771,12,Moderately satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1772,17,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1773,12,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1774,8,Moderately satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1775,1,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1776,14,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1777,14,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1778,12,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1779,20,.i:  Inapplicable,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1780,13,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1781,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1782,12,A little dissatisfied,Not satisfied at all,Good,Mostly dissatisfied
+2018,1783,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,1784,14,Very satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1785,16,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1786,15,Moderately satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,1787,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1788,16,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1789,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1790,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1791,20,Very satisfied,Pretty well satisfied,Fair,Mostly satisfied
+2018,1792,12,Very dissatisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1793,12,.i:  Inapplicable,More or less satisfied,Excellent,Completely satisfied
+2018,1794,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1795,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1796,16,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1797,18,Moderately satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1798,16,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1799,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1800,11,Very dissatisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1801,14,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1802,13,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1803,16,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1804,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1805,16,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1806,17,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1807,16,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1808,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1809,16,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1810,19,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1811,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1812,16,Moderately satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1813,14,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1814,16,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1815,12,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1816,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1817,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1818,14,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1819,14,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1820,13,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1821,14,Very satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1822,17,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1823,14,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1824,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1825,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1826,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1827,16,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1828,11,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1829,16,Very dissatisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1830,12,Very dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1831,13,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1832,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1833,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1834,11,.i:  Inapplicable,Not satisfied at all,Fair,Somewhat dissatisfied
+2018,1835,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1836,12,Very dissatisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1837,14,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1838,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,1839,14,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,1840,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1841,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1842,16,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1843,13,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1844,12,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1845,19,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1846,15,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1847,15,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1848,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1849,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1850,7,.i:  Inapplicable,Not satisfied at all,Excellent,Mostly satisfied
+2018,1851,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1852,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1853,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1854,10,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1855,18,.i:  Inapplicable,Pretty well satisfied,Poor,.i:  Inapplicable
+2018,1856,13,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1857,10,.i:  Inapplicable,Not satisfied at all,Very good,Somewhat satisfied
+2018,1858,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,1859,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1860,18,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,1861,9,Very dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1862,14,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,1863,18,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1864,11,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1865,11,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1866,14,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,1867,9,Very satisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1868,11,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1869,19,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,1870,13,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1871,13,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1872,16,.i:  Inapplicable,Pretty well satisfied,Fair,Somewhat satisfied
+2018,1873,11,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1874,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1875,12,Very satisfied,Not satisfied at all,Excellent,Somewhat satisfied
+2018,1876,6,Very satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,1877,12,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1878,10,.i:  Inapplicable,More or less satisfied,Poor,Somewhat satisfied
+2018,1879,12,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,1880,9,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1881,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1882,8,.i:  Inapplicable,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,1883,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1884,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1885,9,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1886,12,Very dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1887,12,A little dissatisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1888,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1889,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1890,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1891,11,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1892,10,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1893,11,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1894,8,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1895,13,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1896,10,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1897,14,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1898,14,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1899,8,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1900,12,A little dissatisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1901,11,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1902,12,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1903,10,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1904,10,Very satisfied,Not satisfied at all,Very good,Completely satisfied
+2018,1905,4,Moderately satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,1906,15,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1907,14,A little dissatisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,1908,12,Moderately satisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,1909,17,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,1910,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1911,16,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1912,20,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1913,14,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1914,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1915,11,A little dissatisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,1916,20,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1917,13,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1918,12,Moderately satisfied,Pretty well satisfied,Poor,.i:  Inapplicable
+2018,1919,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1920,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1921,14,A little dissatisfied,More or less satisfied,Good,Mostly satisfied
+2018,1922,12,Very satisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,1923,16,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1924,15,Moderately satisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,1925,11,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1926,17,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,1927,13,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1928,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1929,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1930,16,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1931,11,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1932,20,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1933,9,A little dissatisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,1934,20,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1935,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1936,16,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,1937,18,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1938,16,A little dissatisfied,More or less satisfied,Poor,Somewhat satisfied
+2018,1939,19,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1940,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1941,20,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1942,12,.i:  Inapplicable,More or less satisfied,Good,Completely satisfied
+2018,1943,16,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,1944,14,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,1945,20,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1946,16,Moderately satisfied,Pretty well satisfied,.n:  No answer,.i:  Inapplicable
+2018,1947,15,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,1948,16,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1949,14,Moderately satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,1950,16,Very dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,1951,15,.i:  Inapplicable,Not satisfied at all,Very good,Completely satisfied
+2018,1952,16,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1953,14,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1954,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,1955,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1956,12,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1957,17,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1958,14,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1959,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,1960,10,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1961,14,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1962,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1963,20,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1964,6,Moderately satisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,1965,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1966,13,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1967,6,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1968,13,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1969,14,Moderately satisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,1970,16,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,1971,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,1972,16,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,1973,16,Very dissatisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,1974,13,A little dissatisfied,Not satisfied at all,Good,Mostly satisfied
+2018,1975,9,Moderately satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,1976,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1977,15,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,1978,16,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,1979,2,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,1980,9,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1981,12,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,1982,13,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,1983,18,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,1984,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,1985,12,A little dissatisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,1986,13,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,1987,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1988,12,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,1989,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,1990,12,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,1991,11,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,1992,No formal schooling,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,1993,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1994,9,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,1995,8,.i:  Inapplicable,.d:  Do not Know/Cannot Choose,Excellent,.i:  Inapplicable
+2018,1996,14,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,1997,14,.i:  Inapplicable,Not satisfied at all,Good,Mostly satisfied
+2018,1998,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,1999,19,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2000,12,.i:  Inapplicable,Pretty well satisfied,Very good,Completely satisfied
+2018,2001,11,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2002,15,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,2003,17,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2004,17,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2005,15,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2006,15,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2007,20,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2008,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2009,12,.i:  Inapplicable,Not satisfied at all,Very good,Somewhat satisfied
+2018,2010,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2011,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2012,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2013,16,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,2014,15,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2015,13,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,2016,12,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,2017,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2018,15,.i:  Inapplicable,More or less satisfied,Very good,Somewhat satisfied
+2018,2019,18,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2020,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2021,14,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,2022,15,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2023,18,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,2024,17,Very satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2025,20,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,2026,16,.n:  No answer,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2027,20,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,2028,19,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2029,14,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,2030,19,.i:  Inapplicable,More or less satisfied,Good,Somewhat satisfied
+2018,2031,15,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2032,16,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2033,14,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,2034,14,Very satisfied,Not satisfied at all,Fair,Mostly satisfied
+2018,2035,14,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,2036,12,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,2037,14,A little dissatisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2038,9,Very satisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,2039,10,Very dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,2040,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2041,19,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2042,20,A little dissatisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,2043,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2044,14,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2045,11,.i:  Inapplicable,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,2046,16,.i:  Inapplicable,Not satisfied at all,Very good,Mostly satisfied
+2018,2047,18,Moderately satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,2048,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,2049,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2050,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2051,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2052,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2053,14,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,2054,12,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2055,8,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2056,12,Moderately satisfied,Not satisfied at all,Poor,Somewhat dissatisfied
+2018,2057,14,.i:  Inapplicable,Not satisfied at all,Very good,Somewhat satisfied
+2018,2058,11,Moderately satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,2059,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2060,12,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2061,14,Moderately satisfied,More or less satisfied,Excellent,Somewhat satisfied
+2018,2062,14,A little dissatisfied,Not satisfied at all,Poor,.i:  Inapplicable
+2018,2063,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2064,18,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,2065,14,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2066,12,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,2067,9,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,2068,10,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2069,14,Very satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,2070,15,Very dissatisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,2071,11,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,2072,11,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,2073,9,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2074,12,Moderately satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2075,12,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2076,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,2077,18,Moderately satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2078,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2079,12,.i:  Inapplicable,.d:  Do not Know/Cannot Choose,.n:  No answer,.n:  No answer
+2018,2080,12,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,2081,14,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2082,14,Very dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2083,14,A little dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2084,16,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,2085,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2086,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2087,12,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2088,14,Very satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,2089,8,.i:  Inapplicable,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2090,12,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,2091,13,Moderately satisfied,Not satisfied at all,.n:  No answer,Completely satisfied
+2018,2092,16,Moderately satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,2093,17,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2094,14,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,2095,16,Very satisfied,More or less satisfied,.n:  No answer,.i:  Inapplicable
+2018,2096,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,2097,12,A little dissatisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2098,14,Very satisfied,More or less satisfied,.n:  No answer,Somewhat satisfied
+2018,2099,13,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2100,16,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,2101,17,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2102,15,Very satisfied,Pretty well satisfied,.n:  No answer,Mostly satisfied
+2018,2103,12,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,2104,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,2105,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2106,14,Moderately satisfied,Pretty well satisfied,.n:  No answer,Somewhat satisfied
+2018,2107,16,Moderately satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,2108,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2109,16,Very satisfied,Pretty well satisfied,Excellent,Mostly satisfied
+2018,2110,13,Very satisfied,More or less satisfied,.n:  No answer,.i:  Inapplicable
+2018,2111,14,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,2112,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2113,12,Moderately satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,2114,20,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,2115,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2116,12,.i:  Inapplicable,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,2117,10,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2118,14,.i:  Inapplicable,Pretty well satisfied,Good,Mostly satisfied
+2018,2119,10,Very satisfied,Pretty well satisfied,Fair,Mostly satisfied
+2018,2120,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2121,14,Moderately satisfied,Not satisfied at all,Fair,Mostly dissatisfied
+2018,2122,13,Very satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,2123,14,.i:  Inapplicable,Pretty well satisfied,Very good,Somewhat satisfied
+2018,2124,14,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2125,14,.n:  No answer,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2126,14,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2127,13,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,2128,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2129,17,A little dissatisfied,Not satisfied at all,Very good,Completely satisfied
+2018,2130,7,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2131,12,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2132,12,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,2133,20,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2134,16,Very satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,2135,15,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2136,12,Moderately satisfied,More or less satisfied,Poor,.i:  Inapplicable
+2018,2137,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2138,16,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,2139,9,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,2140,12,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2141,12,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,2142,12,Very satisfied,More or less satisfied,Fair,Neither satisfied nor dissatisfied
+2018,2143,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,2144,16,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2145,12,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2146,14,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,2147,12,.i:  Inapplicable,Pretty well satisfied,Excellent,Completely satisfied
+2018,2148,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2149,11,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2150,6,.i:  Inapplicable,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,2151,8,Moderately satisfied,Not satisfied at all,Very good,Somewhat dissatisfied
+2018,2152,14,.i:  Inapplicable,More or less satisfied,Poor,Somewhat satisfied
+2018,2153,14,Very satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,2154,14,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2155,12,Very satisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,2156,17,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2157,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2158,12,Very dissatisfied,.d:  Do not Know/Cannot Choose,Very good,Completely satisfied
+2018,2159,13,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2160,12,Moderately satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,2161,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2162,19,Very dissatisfied,Not satisfied at all,Fair,Somewhat dissatisfied
+2018,2163,12,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2164,9,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2165,12,Very satisfied,Not satisfied at all,Very good,Somewhat satisfied
+2018,2166,14,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2167,14,A little dissatisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2168,9,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,2169,10,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,2170,16,.i:  Inapplicable,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2171,12,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,2172,12,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2173,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,2174,12,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2175,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2176,12,Very satisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,2177,12,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,2178,14,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2179,12,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,2180,12,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,2181,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2182,12,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,2183,12,Very satisfied,More or less satisfied,Excellent,Completely satisfied
+2018,2184,16,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2185,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2186,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,2187,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2188,12,Very satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2189,12,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2190,16,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2191,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2192,16,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2193,19,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2194,15,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,2195,12,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2196,12,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2197,14,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2198,16,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,2199,18,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,2200,14,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,2201,10,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2202,14,Moderately satisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,2203,12,.i:  Inapplicable,More or less satisfied,Very good,Completely satisfied
+2018,2204,13,Very dissatisfied,More or less satisfied,Good,Somewhat dissatisfied
+2018,2205,15,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2206,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2207,20,Very satisfied,Not satisfied at all,Excellent,Completely satisfied
+2018,2208,12,Very satisfied,Pretty well satisfied,Good,Somewhat satisfied
+2018,2209,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2210,14,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,2211,20,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,2212,14,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,2213,8,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2214,12,A little dissatisfied,Not satisfied at all,Fair,Mostly dissatisfied
+2018,2215,12,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2216,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,2217,17,Very dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,2218,12,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2219,13,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2220,12,A little dissatisfied,More or less satisfied,Fair,Somewhat satisfied
+2018,2221,12,.i:  Inapplicable,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,2222,19,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,2223,2,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2224,13,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2225,18,A little dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2226,16,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2227,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2228,11,Very satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,2229,13,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2230,12,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2231,17,Very satisfied,More or less satisfied,Very good,Completely satisfied
+2018,2232,14,.i:  Inapplicable,More or less satisfied,Poor,Mostly satisfied
+2018,2233,17,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2234,9,Moderately satisfied,More or less satisfied,Fair,Completely dissatisfied
+2018,2235,11,Very satisfied,Not satisfied at all,Very good,Mostly satisfied
+2018,2236,10,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2237,13,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,2238,8,A little dissatisfied,Not satisfied at all,Fair,Neither satisfied nor dissatisfied
+2018,2239,12,.i:  Inapplicable,Pretty well satisfied,Good,Somewhat satisfied
+2018,2240,12,Moderately satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2241,10,.i:  Inapplicable,More or less satisfied,Poor,Somewhat dissatisfied
+2018,2242,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2243,12,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2244,12,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2245,12,A little dissatisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2246,12,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,2247,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2248,12,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,2249,14,Very satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2250,14,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2251,12,.i:  Inapplicable,Pretty well satisfied,Good,Completely satisfied
+2018,2252,19,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2253,12,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2254,12,Very satisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,2255,12,A little dissatisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2256,12,Moderately satisfied,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2257,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2258,8,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2259,10,.i:  Inapplicable,Pretty well satisfied,Fair,Somewhat dissatisfied
+2018,2260,3,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2261,16,Moderately satisfied,Not satisfied at all,Good,Mostly satisfied
+2018,2262,16,Very satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2263,6,A little dissatisfied,More or less satisfied,Fair,Somewhat dissatisfied
+2018,2264,13,.n:  No answer,More or less satisfied,Good,.i:  Inapplicable
+2018,2265,14,Very satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2266,4,.i:  Inapplicable,Not satisfied at all,Very good,Mostly satisfied
+2018,2267,12,Very satisfied,Pretty well satisfied,Excellent,Completely satisfied
+2018,2268,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,2269,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2270,12,A little dissatisfied,Not satisfied at all,Fair,Somewhat satisfied
+2018,2271,8,Very satisfied,Pretty well satisfied,Very good,Mostly satisfied
+2018,2272,11,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2273,14,Moderately satisfied,Pretty well satisfied,Poor,Somewhat satisfied
+2018,2274,10,.i:  Inapplicable,More or less satisfied,Fair,Somewhat satisfied
+2018,2275,15,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2276,14,Moderately satisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,2277,14,.n:  No answer,Not satisfied at all,Good,Somewhat satisfied
+2018,2278,13,.i:  Inapplicable,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2279,17,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,2280,12,Very satisfied,Pretty well satisfied,Good,Completely satisfied
+2018,2281,12,Moderately satisfied,More or less satisfied,Good,.i:  Inapplicable
+2018,2282,12,Moderately satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,2283,11,.d:  Do not Know/Cannot Choose,Not satisfied at all,Good,Somewhat satisfied
+2018,2284,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2285,9,Moderately satisfied,More or less satisfied,Very good,Mostly satisfied
+2018,2286,12,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2287,6,Moderately satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2288,10,.i:  Inapplicable,Not satisfied at all,Good,Completely satisfied
+2018,2289,11,A little dissatisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2290,11,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2291,11,A little dissatisfied,Pretty well satisfied,Good,Mostly satisfied
+2018,2292,10,Very satisfied,Pretty well satisfied,Good,.i:  Inapplicable
+2018,2293,12,Very satisfied,Not satisfied at all,Excellent,.i:  Inapplicable
+2018,2294,9,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,2295,13,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2296,12,.i:  Inapplicable,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2297,10,Moderately satisfied,More or less satisfied,Good,Neither satisfied nor dissatisfied
+2018,2298,13,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2299,6,.n:  No answer,More or less satisfied,Excellent,Completely satisfied
+2018,2300,12,.i:  Inapplicable,More or less satisfied,Fair,.i:  Inapplicable
+2018,2301,10,Very satisfied,More or less satisfied,Fair,Mostly satisfied
+2018,2302,12,Very dissatisfied,More or less satisfied,Fair,.i:  Inapplicable
+2018,2303,12,Very satisfied,Pretty well satisfied,Poor,Somewhat satisfied
+2018,2304,6,.i:  Inapplicable,Pretty well satisfied,.d:  Do not Know/Cannot Choose,Completely satisfied
+2018,2305,10,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2306,12,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,2307,12,Very dissatisfied,Pretty well satisfied,Fair,Somewhat satisfied
+2018,2308,12,Moderately satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2309,9,.i:  Inapplicable,Not satisfied at all,Fair,.i:  Inapplicable
+2018,2310,14,.i:  Inapplicable,Pretty well satisfied,Fair,Somewhat satisfied
+2018,2311,13,.i:  Inapplicable,More or less satisfied,Excellent,Mostly satisfied
+2018,2312,14,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,2313,8,Moderately satisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2314,12,.i:  Inapplicable,Not satisfied at all,Good,Somewhat satisfied
+2018,2315,12,Very satisfied,Pretty well satisfied,Excellent,.i:  Inapplicable
+2018,2316,.d:  Do not Know/Cannot Choose,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2317,17,A little dissatisfied,Pretty well satisfied,Very good,.i:  Inapplicable
+2018,2318,20,.n:  No answer,Pretty well satisfied,Very good,Mostly satisfied
+2018,2319,12,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2320,10,Moderately satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2321,12,.i:  Inapplicable,More or less satisfied,Very good,.i:  Inapplicable
+2018,2322,15,Moderately satisfied,More or less satisfied,Very good,Somewhat satisfied
+2018,2323,14,Moderately satisfied,Pretty well satisfied,Very good,Somewhat satisfied
+2018,2324,16,Moderately satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2325,12,.i:  Inapplicable,Not satisfied at all,Good,.i:  Inapplicable
+2018,2326,16,Very satisfied,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2327,12,Very satisfied,More or less satisfied,Good,Somewhat satisfied
+2018,2328,16,A little dissatisfied,Not satisfied at all,Good,Neither satisfied nor dissatisfied
+2018,2329,17,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,2330,14,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2331,14,Moderately satisfied,More or less satisfied,Good,Mostly satisfied
+2018,2332,12,.i:  Inapplicable,More or less satisfied,Good,.i:  Inapplicable
+2018,2333,17,Very satisfied,Pretty well satisfied,Very good,Completely satisfied
+2018,2334,20,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2335,18,.i:  Inapplicable,More or less satisfied,Very good,Mostly satisfied
+2018,2336,18,Very satisfied,Pretty well satisfied,Fair,.i:  Inapplicable
+2018,2337,16,A little dissatisfied,More or less satisfied,Poor,Neither satisfied nor dissatisfied
+2018,2338,12,Moderately satisfied,More or less satisfied,Excellent,Mostly satisfied
+2018,2339,12,Moderately satisfied,Not satisfied at all,Good,Somewhat satisfied
+2018,2340,14,Very satisfied,Not satisfied at all,Very good,.i:  Inapplicable
+2018,2341,8,.i:  Inapplicable,More or less satisfied,.n:  No answer,.i:  Inapplicable
+2018,2342,14,.i:  Inapplicable,Not satisfied at all,Poor,.i:  Inapplicable
+2018,2343,12,.i:  Inapplicable,More or less satisfied,Good,Mostly satisfied
+2018,2344,12,Moderately satisfied,Not satisfied at all,Good,.i:  Inapplicable
+2018,2345,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
+2018,2346,12,.i:  Inapplicable,Pretty well satisfied,Very good,Mostly satisfied
+2018,2347,16,.i:  Inapplicable,More or less satisfied,Excellent,.i:  Inapplicable
+2018,2348,12,Very satisfied,More or less satisfied,Very good,.i:  Inapplicable
